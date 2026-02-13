@@ -1,0 +1,29 @@
+{
+    "name": "default",
+    "description": "Standard Flip-Animation mit Zoom-In-Start",
+    "durationInSeconds": 5,
+    "cardWidth": 420,
+    "cardHeight": 660,
+    "cardTopPercent": 5.5,
+    "perspective": 1000,
+    "spinCount": 6,
+    "spinDurationFrames": 120,
+    "fadeInDuration": 15,
+    "scalePop": 1.03,
+    "cameraKeyframes": [
+        {
+            "timeInSeconds": 0,
+            "zoom": 2,
+            "offsetX": 0,
+            "offsetY": -15
+        },
+        {
+            "timeInSeconds": 3,
+            "zoom": 1,
+            "offsetX": 0,
+            "offsetY": 0
+        }
+    ],
+    "frontImage": "Der_Narr_Illustration.png",
+    "backImage": "cut_card_back.png"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "zoom-close",
+    "description": "Extreme Nahaufnahme der Karte, langsamer Zoom-Out",
+    "durationInSeconds": 6,
+    "cardWidth": 420,
+    "cardHeight": 660,
+    "cardTopPercent": 5.5,
+    "perspective": 1000,
+    "spinCount": 4,
+    "spinDurationFrames": 90,
+    "fadeInDuration": 10,
+    "scalePop": 1.05,
+    "cameraKeyframes": [
+        {
+            "timeInSeconds": 0,
+            "zoom": 3.5,
+            "offsetX": 0,
+            "offsetY": -20
+        },
+        {
+            "timeInSeconds": 2,
+            "zoom": 2,
+            "offsetX": 0,
+            "offsetY": -10
+        },
+        {
+            "timeInSeconds": 5,
+            "zoom": 1,
+            "offsetX": 0,
+            "offsetY": 0
+        }
+    ],
+    "frontImage": "Der_Narr_Illustration.png",
+    "backImage": "cut_card_back.png"
+}

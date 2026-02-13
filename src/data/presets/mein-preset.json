@@ -1,0 +1,68 @@
+{
+    "name": "mein-preset",
+    "description": "video-template mit overlay layout",
+    "presetName": "mein-preset",
+    "durationInSeconds": 20,
+    "cardWidth": 440,
+    "cardHeight": 690,
+    "cardTopPercent": 5.5,
+    "perspective": 1000,
+    "spinCount": 1,
+    "spinDurationFrames": 120,
+    "fadeInDuration": 15,
+    "scalePop": 1.03,
+    "frameHeightPercent": 42,
+    "contentTopPercent": 50,
+    "bottomSectionTopPercent": 75,
+    "shadowSectionTopPercent": 89,
+    "titleFontSize": 26,
+    "bodyFontSize": 17,
+    "headingFontSize": 20,
+    "cosmicIconSize": 110,
+    "meaningIconSize": 160,
+    "crystalBallSize": 150,
+    "contentPaddingX": 50,
+    "columnGap": 40,
+    "badgeSize": 60,
+    "badgeTopOffset": 20,
+    "cameraKeyframes": [
+        {
+            "timeInSeconds": 0,
+            "zoom": 2.3,
+            "offsetX": 0,
+            "offsetY": -26.5
+        },
+        {
+            "timeInSeconds": 4.5,
+            "zoom": 2.3,
+            "offsetX": 0,
+            "offsetY": -26.5
+        },
+        {
+            "timeInSeconds": 5.5,
+            "zoom": 1,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "timeInSeconds": 6.5,
+            "zoom": 2.55,
+            "offsetX": -23.5,
+            "offsetY": 4
+        },
+        {
+            "timeInSeconds": 8.5,
+            "zoom": 2.55,
+            "offsetX": -23.5,
+            "offsetY": 4
+        },
+        {
+            "timeInSeconds": 10,
+            "zoom": 1,
+            "offsetX": 0,
+            "offsetY": 0
+        }
+    ],
+    "frontImage": "Der_Narr_Illustration.png",
+    "backImage": "cut_card_back.png"
+}

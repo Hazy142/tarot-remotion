@@ -1,0 +1,53 @@
+{
+    "derNarr": {
+        "cardNumber": "0",
+        "title": "Der Narr",
+        "imageSrc": null,
+        "symbolikItems": [
+            {
+                "title": "Nummer 0: Der absolute Neubeginn",
+                "description": "Als Karte Null repräsentiert der Narr das unendliche Potenzial vor der Formwerdung und den Mut, eine neue Reise ohne Vorurteile anzutreten."
+            },
+            {
+                "title": "Der Sprung aus Vertrauen",
+                "description": "Er steht am Abgrund, nicht aus Dummheit, sondern aus purem Vertrauen in die Führung des Universums und die eigene Intuition."
+            },
+            {
+                "title": "Die weiße Rose & der Begleiter",
+                "description": "Die weiße Rose in der Illustration symbolisiert Reinheit und Unschuld, während der treue Hund den Wanderer vor Gefahren warnt und ihn begleitet."
+            }
+        ],
+        "element": {
+            "name": "Element Luft",
+            "description": "Das zugeordnete Element Luft steht für klare Gedanken, neue Perspektiven und die Leichtigkeit des Geistes.",
+            "icon": "luft"
+        },
+        "planet": {
+            "name": "Planet Uranus",
+            "description": "Uranus bringt die Energie von Freiheit, Rebellion gegen das Veraltete und plötzliche, lebensverändernde Durchbrüche.",
+            "icon": "uranus"
+        },
+        "liebe": {
+            "title": "In der Liebe",
+            "description": "Ein Hinweis auf neue, spontane romantische Anfänge, die ohne Angst vor Verletzung oder Altlasten eingegangen werden."
+        },
+        "karriere": {
+            "title": "In der Karriere",
+            "description": "Symbolisiert einen kühnen Berufswechsel, den Start eines Herzensprojektes oder den Mut, völlig neue berufliche Wege zu gehen."
+        },
+        "spirituell": {
+            "title": "Spirituelle Reise",
+            "description": "Der Ruf, die eigene spirituelle Entwicklung jetzt zu starten und sich für höhere Führung zu öffnen."
+        },
+        "schattenItems": [
+            {
+                "title": "Warnung vor Leichtsinn",
+                "description": "Umgekehrt warnt die Karte vor Unverantwortlichkeit, Naivität und blindem Vertrauen, das in Gefahr führen könnte."
+            },
+            {
+                "title": "Blockierter Neuanfang",
+                "description": "Sie kann auf eine Weigerung hinweisen, notwendige Veränderungen zu akzeptieren oder aus Angst vor dem Unbekannten zu stagnieren."
+            }
+        ]
+    }
+}
